@@ -1,0 +1,6 @@
+Location/City: Hamburg, Germany
+
+Map-Zen link: https://s3.amazonaws.com/metro-extracts.mapzen.com/hamburg_germany.osm.bz2
+OpenStreetMap link: https://www.openstreetmap.org/relation/2618040
+
+I am from Germany, so I wanted to wrangle a map of a German city. Although I never lived in Hamburg (so far), I love the city for it's harbor, nightlife and the attitude of the people living there. Thus I would like to get to know the city a little better. I also chose it, because I think German street names are more challenging than American ones, since in generel there are more irregular names.
